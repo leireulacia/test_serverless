@@ -1,6 +1,6 @@
 # test_serverless
 
-Create a serverless
+Develop a basic bookshop to get a list of books using serverless.
 
 ### Technology Used
 
